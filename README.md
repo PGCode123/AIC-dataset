@@ -134,13 +134,6 @@ RETURN
 
 ---
 
-## Example Reasoning Workflow
-
-The three examples demonstrate progressively more comprehensive knowledge-graph reasoning:
-
-**Crack-width compliance assessment → Crack-level repair recommendation → Deterioration mechanism analysis and structural maintenance recommendation**
-
-For the marine exposure example, the knowledge graph identifies a crack-width limit of **0.15 mm**. A measured crack width of **0.35 mm** is therefore classified as **Non-Compliant**. The graph can subsequently retrieve relevant crack repair strategies and trace associated deterioration mechanisms to support structural-level maintenance decisions.
 
 ## Requirements
 
