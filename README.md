@@ -139,13 +139,3 @@ RETURN
 
 - Neo4j
 - Cypher Query Language
-
-## Citation
-
-If you use this dataset in your research, please cite the associated publication.
-
-> Citation information will be added upon publication.
-
-## License
-
-Please refer to the repository license for terms of use.
